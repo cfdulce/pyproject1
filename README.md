@@ -12,3 +12,4 @@ This project is composed of two dictionaries (foods and drinks) that display the
 <br>
 <br>
 <h4>Block Diagram:</h4>
+<img width="580", src="https://github.com/cfdulce/pyproject1/assets/141872577/cb7be3dd-b295-46ab-995a-b856e67c70b5"/>
